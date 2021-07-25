@@ -1,0 +1,1 @@
+print('C:', input('String 1:\n') + input('String 2:\n'))
