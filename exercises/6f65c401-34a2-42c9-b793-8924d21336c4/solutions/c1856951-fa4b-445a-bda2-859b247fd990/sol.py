@@ -1,0 +1,5 @@
+print('String 1:')
+in1 = input().split()
+print('String 2:')
+in2 = input().split()
+print('Same:', *list(set(in1) & set(in2)))
