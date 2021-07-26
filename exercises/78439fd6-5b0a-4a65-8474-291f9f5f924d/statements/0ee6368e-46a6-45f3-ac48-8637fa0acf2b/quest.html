@@ -2,23 +2,22 @@
 <br>
 <p> Write a program that allows the user to play words. The rules of this game are as follows: </p>
 <ol>
-    <li> The computer displays the text &#39; Enter a word beginning with A: &#39;. (User provides the word). If the User entered a word beginning with a letter other than A, he loses (an appropriate message is displayed). </li>
-    <li> The computer displays the text &#39; Enter a word starting with @ &#39; where the last letter of the previous word should appear instead of the @ sign. (User provides the word.) </li>
+    <li> The computer displays the text &#39; Enter a word beginning with A: &#39; (User provides the word). If the User enters a word beginning with a different letter than A, he loses the game (an appropriate message is displayed, see the example of an execution flow below). </li>
+    <li> The computer displays the text &#39; Enter a word starting with @: &#39; where the last letter of the previous word should appear instead of the @ sign. (User provides the word.) </li>
     <li> If the User does not enter the correct letter, they lose (an appropriate message is displayed). </li>
     <li> If the User enters the correct letter, go back to point 2. </li>
         The letters are not case-sensitive (a and A are the same).
 <br>
 </ol>
-An example of the course of the game
-<br>
+<p> An example of an execution flow: </p>
 <ol>
 Computer: <code> Enter a word starting with A: </code> <br>
 User: <code> ADAPT </code> <br>
-Computer: <code> Enter a word beginning with T </code> <br>
+Computer: <code> Enter a word starting with T: </code> <br>
 User: <code> TIK </code> <br>
-Computer: <code> Enter a word beginning with K: </code> <br>
+Computer: <code> Enter a word starting with K: </code> <br>
 User: <code> KIT </code> <br>
-Computer: <code> Enter a word beginning with T: </code> <br>
+Computer: <code> Enter a word starting with T: </code> <br>
 User: <code> No </code> <br>
 Computer: <code> You lost. </code>
 </ol>
