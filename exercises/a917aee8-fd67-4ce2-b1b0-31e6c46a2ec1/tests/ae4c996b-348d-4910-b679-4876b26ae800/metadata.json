@@ -1,1 +1,1 @@
-{"id":"ae4c996b-348d-4910-b679-4876b26ae800","arguments":[],"weight":"1","visible":false,"input":"in2.txt","output":"out2.txt","timeout":0,"feedback":[{"message":"Test completed","weight":"0"}]}
+{"id":"ae4c996b-348d-4910-b679-4876b26ae800","arguments":[],"weight":"1","visible":"false","input":"in2.txt","output":"out2.txt","timeout":"2","feedback":[{"message":"Test completed","weight":"0"}]}
