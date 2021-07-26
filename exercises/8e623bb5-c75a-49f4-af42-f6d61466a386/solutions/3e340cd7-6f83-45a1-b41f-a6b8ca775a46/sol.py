@@ -1,6 +1,6 @@
 d = {}
 while True:
-    print('Enter the result:')
+    print('Result?')
     try:
         res = str(input()).split()
         d[res[0]] = float(res[1])
