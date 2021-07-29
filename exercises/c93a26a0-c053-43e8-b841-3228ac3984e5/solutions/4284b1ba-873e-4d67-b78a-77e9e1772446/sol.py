@@ -22,7 +22,8 @@ while True:
 
         print (f"#{pack_amount}, weight: {lightest}kg [{type}]")
         tn = input ("Next package?\n")
-        if tn.lower() == "exit": break
+        if tn.lower() == "true": continue
+        else: break
 
     except:
         break
