@@ -1,0 +1,3 @@
+Liczba dzieci:
+Dochód na członka:
+Łączny zasiłek: 500
