@@ -1,7 +1,7 @@
 print('Number of children?')
 ile = int(input())
 print('Income per member?')
-income_percapita = int(input())
+income_percapita = float(input())
 plus = 200
 if income_percapita <= 500:
     print(f'Total children benefit: {plus*(ile)}')
