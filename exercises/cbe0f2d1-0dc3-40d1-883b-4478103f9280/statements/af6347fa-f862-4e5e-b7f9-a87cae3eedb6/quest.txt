@@ -1,16 +1,16 @@
 <h4> Converting temperature units </h4>
 
-<p> Write some piece of code that converts temperatures from Kalvin to Celsius.
-The program should initially read the temperatures as Kalvin in a loop and converts it to Celsius degrees, apply the numeric rounding to 2-decimal place. if the user hasn't enter any correct number the computer should terminate the program.</p> 
+<p> Write some piece of code that converts temperatures from Kelvin to Celsius.
+The program should initially read the temperatures as Kelvin in a loop and converts it to Celsius degrees, apply the numeric rounding to 2-decimal place. if the user hasn't enter any correct number the computer should terminate the program.</p> 
 <p> An example of an execution flow: </p>
 <ol>
-<p> Computer: <code> Kalvin: </code> </p> 
+<p> Computer: <code> Kelvin? </code> </p> 
 <p> User: <code> 36 </code> </p> 
-<p> Computer: <code> Celsius: -237.15</code> </p> 
-<p> Computer: <code> Kalvin: </code> </p> 
+<p> Computer: <code> Celsius: -237.15°C</code> </p> 
+<p> Computer: <code> Kelvin? </code> </p> 
 <p> User: <code> 303 </code> </p> 
-<p> Computer: <code> Celsius: 29.85 </code> </p> 
-<p> Computer: <code> Kalvin: </code> </p> 
+<p> Computer: <code> 29.85°C </code> </p> 
+<p> Computer: <code> Kelvin? </code> </p> 
 <p> User: <code> stop </code> </p> 
 <p>	Computer terminates the program. </p>
 </ol>
