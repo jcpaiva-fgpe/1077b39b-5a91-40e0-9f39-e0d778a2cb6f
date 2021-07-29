@@ -7,7 +7,7 @@ if ((int(month)==12 and int(day) >= 22) or (int(month)==1 and int(day)<= 19)):
 elif ((int(month)==1 and int(day) >= 20) or (int(month)==2 and int(day)<= 17)):
     zodiac_sign = ("Aquaris")
 elif ((int(month)==2 and int(day) >= 18) or (int(month)==3 and int(day)<= 19)):
-    zodiac_sign = ("Pices")
+    zodiac_sign = ("Pisces")
 elif ((int(month)==3 and int(day) >= 20) or (int(month)==4 and int(day)<= 19)):
     zodiac_sign = ("Aries")
 elif ((int(month)==4 and int(day) >= 20) or (int(month)==5 and int(day)<= 20)):
