@@ -1,1 +1,1 @@
-{"id":"37653193-7fbb-4857-9e75-361295fa31d9","arguments":[],"weight":"1","visible":false,"input":"in1.txt","output":"out1.txt","timeout":0,"feedback":[{"message":"Test completed","weight":"0"}]}
+{"id":"37653193-7fbb-4857-9e75-361295fa31d9","arguments":[],"weight":"1","visible":"false","input":"in1.txt","output":"out1.txt","timeout":"2","feedback":[{"message":"Test completed","weight":"0"}]}
