@@ -11,5 +11,5 @@ else:
     print('Handicapped?')
     incapacitation = input().lower()
     if incapacitation == 'yes' or income_percapita <= 800:
-        print(f'Total children benefit: {plus*(ile)}')
+        print(f'Total child benefit: {plus*(ile)}')
  
