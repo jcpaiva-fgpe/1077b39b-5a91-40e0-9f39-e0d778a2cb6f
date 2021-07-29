@@ -1,0 +1,3 @@
+Number of children?
+Income per member?
+Total child benefit: 200
