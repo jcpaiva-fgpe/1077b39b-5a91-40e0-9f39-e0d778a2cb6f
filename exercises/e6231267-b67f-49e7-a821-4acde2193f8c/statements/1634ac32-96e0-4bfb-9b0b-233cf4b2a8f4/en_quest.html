@@ -1,0 +1,34 @@
+<h4> PESEL number checking </h4>
+<br>
+<p> Write a program that reads the user's last name and the PESEL number after a space, and prints out information that can be distinguished from the PESEL number (for example, age, gender and check if the PESEL number is correct according to the formula). </p>
+<p> From the PESEL number, you can extract: </p>
+<ol>
+    <p> numbers from 1 to 6 - date of birth with indication of the century of birth </p>
+    <p> digits from 7 to 9 - series number </p>
+    <p> digit 10 - gender </p>
+    <p> digit 11 - check digit </p>
+</ol>
+<p> Verify PESEL by the given formula: </p> <ol>
+<p> The last digit of the PESEL number is the so-called a check digit, it allows you to verify the PESEL number, whether it has been entered correctly. </p>
+<p> Use the math formula: <br> 1 * a + 3 * b + 7 * c + 9 * d + 1 * e + 3 * f + 7 * g + 9 * h + 1 * i + 3 * j , where the letters from a to j stand for the next digits of the PESEL number. The last digit of the PESEL number will be the result of this formula. From the obtained result, take the last digit and subtract from the number 10. The obtained result should match the last digit of the PESEL number. </p> </ol>
+<p> If the entered PESEL number has been successfully verified, display the message including gender and age, according to pattern: </p>
+<br> <p> First runtime example: </p>
+<ol>
+    <p> User: <code> Tomczak 96022277319 </code> </p>
+    <p> Computer: <code> Mr. Tomczak(25), February 22, 1996, PESEL: 96022277319. </code> </p>
+    <p> Computer: <code> Enter your name and PESEL number: <code> </p>
+    <p> User: <code>end</code> </p>
+</ol>
+<p> Second example of execution flow: </p>
+<ol>
+    <p> User: <code> Nowak 08290725582 </code> </p>
+    <p> Computer: <code> Mrs. Nowak(12), 07/09/2008. PESEL: 08290725582. </code> </p>
+    <p> Computer: <code> Enter your name and PESEL number: <code> </p>
+    <p> User: <code> Notcorrect 96022277311 </code> </p>
+</ol>
+<p> Note 1: Both the lack of a PESEL number and an incorrectly entered PESEL number interrupts the operation of the program. </p>
+<p> Note 2: The program is to function properly for people born from 1900, for example the PESEL number for this case: 00010135217, and for those born after 2000 (until 2099). For example, PESEL number, os. born after 2000: 11210117543. Give thought the PESEL number for years  2000 (until 2099)to the year, and month value(). </p>
+<br>
+<p> You can use the examples above to test how your code works. </p>
+<p> To complete the task, write your code and click the Submit button. </p> <br>
+<p> Good luck! </p>
