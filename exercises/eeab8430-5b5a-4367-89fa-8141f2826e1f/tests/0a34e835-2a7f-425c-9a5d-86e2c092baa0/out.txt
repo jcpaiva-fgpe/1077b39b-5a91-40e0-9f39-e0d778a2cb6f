@@ -1,4 +1,4 @@
-Poniżej wpisuj zdania z adresami e-mail:
+E-mail strings:
 1) tom12.kowalski 2 1
 2) sr322.3tomczak 3 2
 3) abu.ag
