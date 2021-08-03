@@ -1,4 +1,5 @@
-przystanki = ['Szczecin', 'Nowogard', 'Koszalin', 'Słupsk', 'Gdynia', 'Gdańsk']
+silkroad = "Beijing - Xian - Lanzhou - Xiahe - Wuwei - Zhangye - Jiayuguan Pass - Dunhuang - Turpan - Urumqi - Kashgar - Shanghai"
+przystanki = silkroad.split(' - ')
 print('In?')
 i = input()
 print('Out?')
