@@ -20,7 +20,7 @@ while True:
         if lightest < 10: type = p_id [0]
         else: type = p_id [1]
 
-        print (f"#{pack_amount} min: {lightest}kg [{type}]")
+        print (f"#{pack_amount} min: {round(lightest, 1)}kg [{type}]")
         tn = input ("Next?\n")
         if tn.lower() == "true": continue
         else: break
