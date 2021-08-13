@@ -1,0 +1,36 @@
+<h4> Sprawdzanie numeru PESEL </h4>
+<br>
+<p> Napisz program, który odczyta nazwisko użytkownika i numer PESEL po spacji oraz wydrukuje informacje, które można wyodrebnić z numeru PESEL (np. wiek, płeć oraz można sprawdzić, czy numer PESEL jest poprawny zgodnie z określonym wzorcem). </p>
+<p> Z numeru PESEL można wyodrębnić następujące dane: </p>
+<ol>
+    <p> cyfry od 1 do 6 – data urodzenia ze wskazaniem wieku urodzenia </p>
+    <p> cyfry od 7 do 9 — numer serii </p>
+    <p> cyfra 10 – płeć </p>
+    <p> cyfra 11 - cyfra kontrolna </p>
+</ol>
+<p> Na początku napisz kod, który zweryfikuje PESEL według podanego wzoru: </p> <ol>
+<p> Ostatnia cyfra numeru PESEL to tzw. cyfra kontrolna, pozwala zweryfikować numer PESEL, czy został wpisany poprawnie. </p>
+<p> Użyj wzoru matematycznego: <br> 1 * a + 3 * b + 7 * c + 9 * d + 1 * e + 3 * f + 7 * g + 9 * h + 1 * i + 3 * j , gdzie litery od a do j oznaczają kolejne cyfry numeru PESEL. Wynikiem tego wzoru będzie ostatnia cyfra numeru PESEL. Z otrzymanego wyniku weź ostatnią cyfrę i odejmij od liczby 10. Otrzymany wynik powinien być zgodny z ostatnią cyfrą numeru PESEL. </p> </ol>
+<p> Jeżeli wpisany numer PESEL został pomyślnie zweryfikowany, wyświetl komunikat z podaniem płci i wieku według wzorca: </p>
+<br> <p> Pierwszy przykład przepływu wykonania: </p>
+<ol>
+    <p> Użytkownik: <code> Tomczak 96022277319 </code> </p>
+    <p> Komputer: <code> Mr. Tomczak(25), 22 february 1996, PESEL: 96022277319. </code> </p>
+    <p> Komputer: <code> Wpisz swoje imię i nazwisko oraz numer PESEL: <code> </p>
+    <p> Użytkownik: <code>koniec</code> </p>
+    <p> Komputer kończy program. </p>
+</ol>
+<p> Drugi przykład przepływu wykonania: </p>
+<ol>
+    <p> Użytkownik: <code> Nowak 08290725582 </code> </p>
+    <p> Komputer: <kod> Mr. Tomczak(25), February 22, 1996, PESEL: 96022277319.  </code> </p>
+    <p> Komputer: <code> Wpisz swoje imię i nazwisko oraz numer PESEL: <code> </p>
+    <p> Użytkownik: <code> Nieprawidłowy 96022277311 </code> </p>
+    <p> Komputer kończy program. </p>
+</ol>
+<p> Uwaga 1: Zarówno brak numeru PESEL, jak i błędnie wprowadzony numer PESEL przerywa działanie programu. </p>
+<p> Uwaga 2: Program ma działać poprawnie dla osób urodzonych od 1900 roku, np. numer PESEL dla tego przypadku: 00010135217 oraz dla osób urodzonych po 2000 roku (do 2099). Np. numer PESEL dla osoby urodzonej po 2000 r. ma nieco inny wzór: 11210117543. Pomyśl o numerze PESEL dla lat po 2000 r., wartość miesiąca zwiększa się o 20. </p>
+<br>
+<p> Jeśli chcesz przetestować działanie swojego kodu, skorzystaj z powyższych przykładów. </p>
+<p> Aby wykonać zadanie, napisz swój kod i kliknij przycisk Prześlij. </p> <br>
+<p> Powodzenia! </p>
