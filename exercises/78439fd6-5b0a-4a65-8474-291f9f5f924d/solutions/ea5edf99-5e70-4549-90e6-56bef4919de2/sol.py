@@ -4,6 +4,6 @@ while True:
     word = input().upper()
     if word[0] == letter:
         letter = word[-1]
-     else:
+    else:
         print("Game over.")
         break
