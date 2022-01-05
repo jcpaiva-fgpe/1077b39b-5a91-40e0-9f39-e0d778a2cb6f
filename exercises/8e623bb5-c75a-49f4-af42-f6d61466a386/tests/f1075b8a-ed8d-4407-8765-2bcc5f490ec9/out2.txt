@@ -1,9 +1,9 @@
 Result?
-Lider: Freund 159.6
+Leader: Freund 159.6
 Result?
-Lider: Stoch 159.8
+Leader: Stoch 159.8
 Result?
-Lider: Stoch 159.8
+Leader: Stoch 159.8
 Result?
-Lider: Prevc 160.1
+Leader: Prevc 160.1
 Result?
