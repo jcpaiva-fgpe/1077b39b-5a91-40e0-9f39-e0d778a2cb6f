@@ -1,2 +1,2 @@
 s = input().lower()
-print('yes' if s == s [:: - 1] else 'no')
+print('True' if s == s [:: - 1] else 'False')
