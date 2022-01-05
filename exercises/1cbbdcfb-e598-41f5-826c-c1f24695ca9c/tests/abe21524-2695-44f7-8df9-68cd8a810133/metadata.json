@@ -1,1 +1,1 @@
-{"id":"abe21524-2695-44f7-8df9-68cd8a810133","arguments":[],"weight":"1","visible":false,"input":"in2.txt","output":"out2.txt","timeout":0,"feedback":[{"message":"Test completed","weight":"0"}]}
+{"id":"abe21524-2695-44f7-8df9-68cd8a810133","arguments":[],"weight":"1","visible":"false","input":"in2.txt","output":"out2.txt","timeout":"2","feedback":[{"message":"Test completed","weight":"0"}]}
