@@ -1,0 +1,20 @@
+<h4>Zasiłek 200 Euro+</h4>
+<br>
+<p>Świadczenie 200+ wynosi 200€ / miesiąc. Przysługuje na drugie i każde kolejne dziecko, bez względu na osiągane dochody rodziny. Zasiłek na pierwsze dziecko można otrzymać w przypadku, gdy dochód na członka rodziny nie przekracza 500€, lub 800€ na członka rodziny, jeśli którekolwiek z dzieci w rodzinie jest niepełnosprawne. Napisz program, który zapyta o liczbę dzieci, dochód na członka rodziny i czy jest wśród dzieci niepełnosprawne (jeśli ma to znaczenie), i wyliczy sumę zasiłku. Trzy przykłady działania:</p>
+<ol>
+<li> Number of children? <code> <br> 1 </code> <br>
+Income per member? <code> <br> 450 </code> <br>
+<code> Total child benefit: 200 </code> </li>
+<p> An example of a second execution flow: </p>
+<li> Number of children? <br> <code> 2 </code> <br> 
+Income per member? <br> <code> 791.21 </code> <br> 
+Handicapped? <br> <code> yes </code> <br> 
+<code> Total child benefit:  400 </code> </li>
+<p> An example of a second execution flow: </p>
+<li> Number of children? <br> <code> 3 </code> <br>
+Income per member? <br> <code> 2207.87 </code> <br> 
+<code> Total child benefit: 400 </code> </li>
+</ol>
+<p>W celu przetestowania działania swojego kodu, możesz posłużyć się powyższymi przykładami.</p>
+<p>Aby zaliczyć zadanie, napisz swój kod oraz kliknij w przycisk Zatwierdź.</p><br>
+<p>Powodzenia!</p>
