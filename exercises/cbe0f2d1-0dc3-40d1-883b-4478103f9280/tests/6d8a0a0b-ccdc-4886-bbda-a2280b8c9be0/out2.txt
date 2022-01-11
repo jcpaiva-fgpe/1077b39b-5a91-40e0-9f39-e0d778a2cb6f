@@ -1,5 +1,5 @@
-Kelvin?
-309.15°C
-Kelvin?
-373.26°C
-Kelvin?
+Kelvin-Celsius [1] / Celsius-Kelvin [2]
+-237.15°C
+Kelvin-Celsius [1] / Celsius-Kelvin [2]
+-273.15°C
+Kelvin-Celsius [1] / Celsius-Kelvin [2]
