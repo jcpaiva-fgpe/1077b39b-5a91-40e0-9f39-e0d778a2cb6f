@@ -1,18 +1,20 @@
 <h4> Converting temperature units </h4>
 
-<p> Write some piece of code that converts temperatures from Kelvin to Celsius.
-The program should initially read the temperatures as Kelvin in a loop and converts it to Celsius degrees, apply the numeric rounding to 2-decimal place. if the user hasn't enter any correct number the computer should terminate the program.</p> 
+<p> Write some piece of code that converts temperatures from Kelvin to Celsius or from Celsius to Kelvin.
+The program should initially read the choice from the user and as next should ask for temperatures as Kelvin or Celsius in a loop and converts it to Celsius or Kalvin degrees, apply the numeric rounding to 2-decimal place. if the user hasn't enter any correct number (in both cases: choice or temperature) the computer should terminate the program.</p> 
 <p> An example of an execution flow: </p>
 <ol>
-<p> Computer: <code> Kelvin? </code> </p> 
-<p> User: <code> 36 </code> </p> 
-<p> Computer: <code> Celsius: -237.15°C</code> </p> 
-<p> Computer: <code> Kelvin? </code> </p> 
-<p> User: <code> 303 </code> </p> 
-<p> Computer: <code> 29.85°C </code> </p> 
-<p> Computer: <code> Kelvin? </code> </p> 
-<p> User: <code> stop </code> </p> 
-<p>	Computer terminates the program. </p>
+<p> Komputer: <code> Kelvin-Celsius [1] / Celsius-Kelvin [2]? </code> </p>
+<p> Użytkownik: <code> 1 </code> </p>
+<p> Użytkownik: <code> 36 </code> </p>
+<p> Komputer: <code> -237,15°C</code> </p>
+<p> Komputer: <code> Kelvin-Celsius [1] / Celsius-Kelvin [2]? </code> </p>
+<p> Użytkownik: <code> 1 </code> </p>
+<p> Użytkownik: <code> 303 </code> </p>
+<p> Komputer: <code> 29,85°C </code> </p>
+<p> Komputer: <code> Kelvin-Celsius [1] / Celsius-Kelvin [2]? </code> </p>
+<p> Użytkownik: <code> zatrzymaj </code> </p>
+<p> Komputer kończy program. </p>
 </ol>
 
 <p> If you would like to test how your code works, feel free to use the example above. </p>
