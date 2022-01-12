@@ -1,5 +1,7 @@
-Kelvin-Celsius [1] / Celsius-Kelvin [2]?
+Kelvin-Celsius [1] | Celsius-Kelvin [2]
+Enter Kelvin:
 -237.15°C
-Kelvin-Celsius [1] / Celsius-Kelvin [2]?
+Kelvin-Celsius [1] | Celsius-Kelvin [2]
+Enter Kelvin:
 -273.15°C
-Kelvin-Celsius [1] / Celsius-Kelvin [2]?
+Kelvin-Celsius [1] | Celsius-Kelvin [2]
