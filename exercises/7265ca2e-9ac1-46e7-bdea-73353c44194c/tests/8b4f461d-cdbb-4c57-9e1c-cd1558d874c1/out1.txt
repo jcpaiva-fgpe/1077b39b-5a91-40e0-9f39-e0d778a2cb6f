@@ -1,0 +1,2 @@
+Kelvin-Celsius [1] | Celsius-Kelvin [2]
+False
