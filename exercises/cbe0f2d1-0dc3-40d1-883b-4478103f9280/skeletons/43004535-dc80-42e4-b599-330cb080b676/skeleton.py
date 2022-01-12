@@ -11,6 +11,6 @@ print()
 
 
 
-#Please reuse the option alternatives in your code. 
+#Please apply the choice options in your code. 
 #Do not copy any elements from the options list - point on them, like in the print statement above. 
 
