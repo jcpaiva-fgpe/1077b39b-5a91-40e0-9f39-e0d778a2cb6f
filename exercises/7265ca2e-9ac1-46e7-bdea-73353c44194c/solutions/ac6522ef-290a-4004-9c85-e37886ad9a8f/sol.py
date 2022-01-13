@@ -5,7 +5,7 @@ while True:
     print()
 
     try:
-        option = input().strip().upper()
+        option = input().strip()
         if option in options[0]:
             temp = float(input(f'Enter {options[0][1]}:\n'))
             print(f"{round(temp - 273.15, 2)}°C")
