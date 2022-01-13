@@ -1,0 +1,1 @@
+{"id":"9176c75e-2d0e-4cd9-baf2-1fea7cd5faee","name":"Give Key S1 Unlocker","triggers":[{"kind":"ACTION","event":"SUBMISSION_ACCEPTED","recurrent":false,"parameters":["7265ca2e-9ac1-46e7-bdea-73353c44194c"]}],"criteria":{},"actions":[{"type":"GIVE","parameters":["2432b48d-c57e-45f2-8c1d-a4ab85d45929"]}]}
