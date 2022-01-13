@@ -1,1 +1,1 @@
-{"id":"ad8e46ca-8c4e-4837-9731-0e959d08fcdb","name":"Unlo4","triggers":[{"kind":"ACTION","event":"CHALLENGE_COMPLETED","recurrent":false,"parameters":["c0271400-4927-456c-8ff7-95bd91340f1a"]}],"criteria":{},"actions":[{"type":"UPDATE","parameters":["CHALLENGE","${V0}","state","OPENED"]}]}
+{"id":"ad8e46ca-8c4e-4837-9731-0e959d08fcdb","name":"Unlo4","triggers":[{"kind":"ACTION","event":"CHALLENGE_COMPLETED","recurrent":false,"parameters":["c0271400-4927-456c-8ff7-95bd91340f1a"]}],"criteria":{},"actions":[{"type":"UPDATE","parameters":[]}]}
