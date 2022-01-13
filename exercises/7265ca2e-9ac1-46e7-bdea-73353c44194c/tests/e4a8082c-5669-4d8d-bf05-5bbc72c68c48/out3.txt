@@ -1,0 +1,12 @@
+Kelvin-Celsius [1] | Celsius-Kelvin [2]
+Enter Celsius:
+333.15°K
+Kelvin-Celsius [1] | Celsius-Kelvin [2]
+Enter Kelvin:
+-281.15°C
+Kelvin-Celsius [1] | Celsius-Kelvin [2]
+Enter Celsius:
+173.15°K
+Kelvin-Celsius [1] | Celsius-Kelvin [2]
+Enter Kelvin:
+False
