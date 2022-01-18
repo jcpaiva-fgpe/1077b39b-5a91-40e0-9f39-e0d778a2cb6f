@@ -1,6 +1,6 @@
 print('String?')
-#Get user data
+# Get user data
 
-#Your code here
+# Your code here
 
-#Display the output
+# Display the output
