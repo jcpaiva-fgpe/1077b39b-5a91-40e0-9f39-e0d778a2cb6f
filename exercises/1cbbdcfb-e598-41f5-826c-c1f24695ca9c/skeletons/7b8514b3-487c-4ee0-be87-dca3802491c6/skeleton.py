@@ -1,5 +1,5 @@
 print('String:')
-# Get user data
+#Get user data
 
 
-# Display the output
+#Display the output
