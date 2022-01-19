@@ -1,6 +1,6 @@
 print("Date (DD.MM.YYYY)?")
 
-# Get user data
+#Get user data
 
 
-# Display the output
+#Display the output
